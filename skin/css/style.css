@@ -1,0 +1,14 @@
+.navbar{
+    margin-top: 20px;
+}
+#setting-table {
+    height: 500px;
+    overflow-y: scroll;
+    border: 1px solid #aaa;
+}
+#button-wrapper {
+    padding: 0 0 20px 0;
+}
+#upload-form-wrapper {
+    width: 100% !important;
+}
